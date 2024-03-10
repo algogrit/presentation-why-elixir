@@ -6,7 +6,7 @@ layout: true
 
 class: center, middle
 
-# {title}
+# Why Elixir
 
 Gaurav Agarwal
 
@@ -44,7 +44,7 @@ func main() {
 class: center, middle
 
 Code
-https://github.com/algogrit/presentation-template
+https://github.com/algogrit/presentation-why-elixir
 
 Slides
-https://template.slides.algogrit.com
+https://why-elixir.slides.algogrit.com
