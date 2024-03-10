@@ -40,11 +40,10 @@ func main() {
 ```
 
 ---
-
 class: center, middle
 
 Code
-https://github.com/algogrit/presentation-why-elixir
+https://github.com/AgarwalConsulting/elixir_training
 
 Slides
-https://why-elixir.slides.algogrit.com
+https://elixir.slides.agarwalconsulting.com
