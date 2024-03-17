@@ -46,7 +46,7 @@ class: center, middle
 
 ---
 
-## As a instructor
+## As an instructor
 
 - I promise to
 
@@ -62,7 +62,7 @@ class: center, middle
 
 - Be vocal
 
-  - Let me know if there any audio/video issues ASAP
+  - Let me know if there are any audio/video issues ASAP
 
   - Feel free to interrupt me and ask me questions
 
@@ -129,11 +129,13 @@ class: center, middle
 
 # Elixir
 
-- general purpose
+- General purpose
+
 - Created by Jose Valim and came out in 2012
-- concurrent
-- dynamic
-- well suited for building fault-tolerant & highly-available systems
+
+- Concurrent
+
+- Well suited for building fault-tolerant & highly-available systems
 
 ---
 class: center, middle
@@ -194,7 +196,7 @@ Instead, any operation that seems like it would modify the structure actually re
 ---
 
 - Reliable Parallelism
-  - Since data cannot be changed once created, multiple processes or threads can operate on the same data without the fear of unexpected modifications.
+  - Since, data cannot be changed once created, multiple processes or threads can operate on the same data without the fear of unexpected modifications.
 
 - Enhanced Robustness
   - Immutability contributes to code robustness by minimizing the chances of bugs caused by unintended side effects.
@@ -282,6 +284,8 @@ class: center, middle
 - Pattern Matching
 
 - Battle tested runtime with Beam
+
+- Extensibility and DSLs
 
 - Good enough standard library
 
