@@ -130,7 +130,7 @@ class: center, middle
 # Elixir
 
 - general purpose
-- came out in 2012
+- Created by Jose Valim and came out in 2012
 - concurrent
 - dynamic
 - well suited for building fault-tolerant & highly-available systems
